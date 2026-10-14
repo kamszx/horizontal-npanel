@@ -14,14 +14,9 @@ A lightweight runtime UI patch / add-on for Blender 4.0+ that replaces the defau
 
 ## Installation
 
-### Method 1: As a Standard Add-on (Recommended)
-1. Download `npanel_horizontal_tabs.py` from the [Releases](../../releases) page.
+1. Download `horizontal-npanel.py` from the [Releases](../../releases) page.
 2. In Blender, go to **Edit → Preferences → Add-ons**.
 3. Click **Install from Disk...** (or simply drag & drop the `.py` file into Blender) and enable **Horizontal N-Panel Tabs (Native Patch)**.
-
-### Method 2: Startup Script (Always Active)
-Place `npanel_horizontal_tabs.py` directly into your Blender startup directory:
-- **Windows:** `%APPDATA%\Blender Foundation\Blender\<version>\scripts\startup\`
 
 ## License
 Free for personal and commercial use. Redistribution and reselling are prohibited. See [LICENSE](LICENSE) for details.
